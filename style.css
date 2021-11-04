@@ -28,3 +28,8 @@
 .card-body {
 	background-color: #833f65;
 }
+.btn-primary {
+	background-color: #3d1029;
+	outline-color: gray;
+}
+
