@@ -2,6 +2,6 @@
 ## A variety of web development portfolio projects
 [Portfolio Page](https://scottbdavis.github.io/scottbdavis/)
 
-[Portfolio Page Repository] (https://github.com/scottbdavis/scottbdavis)
+[Portfolio Page Repository](https://github.com/scottbdavis/scottbdavis)
 
 <img src="http://1.bp.blogspot.com/-RCs4pCma290/VRRShvhchII/AAAAAAAAAUo/XUgg1YCcxcU/s1600/pacman.png" alt text="Pac Man">
