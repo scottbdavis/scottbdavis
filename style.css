@@ -1,3 +1,30 @@
-h1 {
+#h1 {
 	color: blue;
+	text-indent: 50px;
+}
+
+#bio {
+	text-indent: 0px;
+	padding: 50px;
+}
+
+.card-title {
+	color: Yellow;
+	font-weight: bold;
+}
+
+.card-text {
+	text-indent: 50px;
+	font-weight: bold;
+	color: lavender;
+}
+
+.card {
+	padding: 50px;
+	margin: 0px 50px 20px 50px;
+	background-color: #4d1434;
+}
+
+.card-body {
+	background-color: #833f65;
 }
